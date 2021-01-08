@@ -6,7 +6,7 @@ A somewhat hacky fix for the way that the Android Armour Mod Slot is implemented
 Adds a new slot to all characters called the Android Slot, and adds a new armour piece called the Android Mod that is free and (in theory) can only be bought by Androids and is the only item that can equipped to the Android Slot, to which Armour Mods can be added. The 'hacky' nature of this fix means that the Android Mod can also be equipped in the Armour Body slot, but this implementation was the easiest way to keep the ability to add armour mods.
 
 ###How to install
-1. Download all the files
+1. Download all the files (you don't need the readme)
 2. Navigate to your PCGen install directory
 3. Copy/move the 'equipmentslots.lst' file to \system\gameModes\Starfinder and replace the file there
 4. Navigate back to the install directory
